@@ -5,7 +5,7 @@ import DestinosSection from './components/DestinosSection.vue'
 import WhySection from './components/WhySection.vue'
 import ProcessSection from './components/ProcessSection.vue'
 import TestimonialSection from './components/TestimonialSection.vue'
-import CtaBand from './components/CtaBand.vue'
+import ContactoSection from './components/ContactoSection.vue'
 import SiteFooter from './components/SiteFooter.vue'
 </script>
 
@@ -17,7 +17,7 @@ import SiteFooter from './components/SiteFooter.vue'
     <WhySection />
     <ProcessSection />
     <TestimonialSection />
-    <CtaBand />
+    <ContactoSection />
   </main>
   <SiteFooter />
 </template>
